@@ -44,3 +44,9 @@ logs
 
 * `<LOG_TO_ARCHIVE_PATH>` 目录下不能存在与待归档日志有相同的 `<COMMON_PREFIX>` 的其他文件
 * 命令执行者对 `<ARCHIVED_LOG_PATH>` 要有 **write** 权限
+
+## License
+
+![license](https://img.shields.io/github/license/rocj/logarchive.svg?style=flat-square)
+
+Released under the [MIT](./LICENSE) license.
