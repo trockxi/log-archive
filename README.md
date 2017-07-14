@@ -1,4 +1,3 @@
-
 日志归档脚本
 ======
 
@@ -47,6 +46,6 @@ logs
 
 ## License
 
-![license](https://img.shields.io/github/license/rocj/logarchive.svg?style=flat-square)
+![](https://img.shields.io/github/license/rocj/logarchive.svg?style=flat-square)
 
-Released under the [MIT](./LICENSE) license.
+Released under the [MIT](./LICENSE) License.
